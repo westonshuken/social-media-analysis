@@ -1,0 +1,6 @@
+# Ignore Tableau files
+*.twb
+*.twbx
+
+# Ignore .secret folder
+.Secret/
